@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
-google_analytics_key:
+title: Bondt
+url: "https://engnaruto.github.io/bondt-landing-page/"
+baseurl: ""
+google_analytics_key: "G-KQYDT5E5GB"
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product marketing template for Jekyll.
+logo: /logo.svg
+description: Increase your Customer Support performance with our Slack-Intercom 2-Way Sync and Weekly Performance Statistics
 author:
-  name:
-  email:
+  name: Bondt
+  email: tarekcsed@gmail.com
   twitter: # twitter username without the @ symbol
-social:
-  name: Hydra Template
-  links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+# social:
+#   name: Hydra Template
+#   links:
+#     - https://engnaruto.github.io/bondt-landing-page/
 
 # -----
 # Build
