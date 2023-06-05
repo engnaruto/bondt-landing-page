@@ -64,8 +64,14 @@ header {
 	margin-left: auto;
 	margin-right: auto;
 	background: #ffffff73 4px 4px no-repeat;
-	padding: 20px;
 	position: relative;
+
+	@media #{$tablet} {
+		padding: 5px;
+	}
+	@media #{$desktop} {
+		padding: 20px;
+	}
 }
 
 .logo{

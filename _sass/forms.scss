@@ -29,7 +29,7 @@
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
 
 input[type=submit] {
-	margin: 20px 0 0 0;
+	margin: 20px auto;
 }
 
 label, input, textarea {
@@ -70,7 +70,13 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 #mc_embed_signup {
 	div {
 		max-width: 600px;
-		margin: 0 auto;
+
+		@media #{$tablet} {
+			margin: 0 5px;
+		}
+		@media #{$desktop} {
+			margin: 0 auto;
+		}
 	}
 
 	label {
@@ -109,13 +115,13 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 		}
 	}
 
-	#subscribe {
-		display: flex;
-		justify-content: space-between;
+	#signup {
+		//display: flex;
+		//justify-content: space-between;
 
 		.button.alt.left {
 			div {
-				margin: 10px;
+				margin: 10px auto;
 			}
 		}
 	}
@@ -129,7 +135,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 	text-align: right;
 
 	img {
-		max-width: 200px;
+		max-width: 100px;
 	}
 }
 
