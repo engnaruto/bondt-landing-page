@@ -118,4 +118,23 @@ footer {
 			font-weight: 600;
 		}
 	}
+
+	#mc_embed_signup {
+		p {
+			font-size: 1.1em;
+			color: #ffffff;
+			text-align: center;
+		}
+
+		.mc-field-group {
+			font-size: 1.0em;
+		}
+
+		input[type=submit] {
+			max-width: 150px;
+			height: fit-content;
+			font-size: 0.9em;
+		}
+
+	}
 }
