@@ -71,7 +71,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 	div {
 		max-width: 600px;
 
-		@media #{$tablet} {
+		@media (min-width: 250px) {
 			margin: 0 5px;
 		}
 		@media #{$desktop} {
@@ -116,9 +116,6 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 	}
 
 	#signup {
-		//display: flex;
-		//justify-content: space-between;
-
 		.button.alt.left {
 			div {
 				margin: 10px auto;
