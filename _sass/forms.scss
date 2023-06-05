@@ -71,7 +71,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 	div {
 		max-width: 600px;
 
-		@media (min-width: 250px) {
+		@media #{$tablet} {
 			margin: 0 5px;
 		}
 		@media #{$desktop} {

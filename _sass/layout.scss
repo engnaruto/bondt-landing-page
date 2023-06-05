@@ -66,7 +66,7 @@ header {
 	background: #ffffff73 4px 4px no-repeat;
 	position: relative;
 
-	@media (min-width: 250px) {
+	@media #{$tablet} {
 		padding: 5px;
 	}
 	@media #{$desktop} {
