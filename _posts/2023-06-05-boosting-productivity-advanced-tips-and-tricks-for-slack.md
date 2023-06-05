@@ -13,14 +13,14 @@ author_staff_member: tarek
 In addition to efficient communication, [Slack](https://slack.com/) offers a range of advanced features to boost productivity and streamline workflows. 
 In this second part of our article, we will explore some advanced tips and tricks to help you make the most of Slack's capabilities. Let's get started!
 
-## **5. Customized Notifications**
+## **1. Customized Notifications**
 
 Tailor Slack's notifications to minimize distractions and focus on what matters most. Here are some notification customization options:
 
 - **Notification Preferences**: Adjust your preferences in Slack's settings to choose which messages trigger notifications (e.g., mentions, keywords, or direct messages).
 - **Do Not Disturb**: Activate "Do Not Disturb" mode to temporarily pause notifications and prevent interruptions when you need dedicated focus time.
 
-## **6. Workflow Automations with Slackbot**
+## **2. Workflow Automations with Slackbot**
 
 Take advantage of Slackbot, Slack's built-in assistant, to automate repetitive tasks. Here are a few ways to leverage its capabilities:
 
@@ -28,7 +28,7 @@ Take advantage of Slackbot, Slack's built-in assistant, to automate repetitive t
 - **Custom Responses**: Configure Slackbot to respond automatically to specific keywords or phrases.
 - **Automated Workflows**: Build custom workflows using Slack's Workflow Builder to automate processes like onboarding, approval workflows, or status updates.
 
-## **7. Advanced Search Operators**
+## **3. Advanced Search Operators**
 
 Locate specific messages, files, or conversations swiftly using Slack's advanced search operators:
 
@@ -38,7 +38,7 @@ Locate specific messages, files, or conversations swiftly using Slack's advanced
 - **has:**: Look for messages that contain specific types of content like links, files, or reactions.
 - **in:thread**: Search for messages within a specific thread.
 
-## **8. Status Updates**
+## **4. Status Updates**
 
 Use Slack's status feature to communicate your availability and share important information with your team. 
 Here are some ideas for utilizing status updates effectively:
@@ -47,7 +47,7 @@ Here are some ideas for utilizing status updates effectively:
 - **Custom Messages**: Add a custom message to your status to provide additional details or context.
 - **Emojis**: Include emojis in your status to make it more visually appealing and expressive.
 
-## **9. Collaborative Features**
+## **5. Collaborative Features**
 
 Collaboration lies at the heart of Slack. Explore these collaborative features to boost teamwork and productivity:
 
