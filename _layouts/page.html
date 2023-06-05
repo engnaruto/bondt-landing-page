@@ -9,7 +9,7 @@ layout: default
 			{% elsif page.title and page.layout != 'archive' %}
 				<h2>{{ page.title }}</h2>
 			{% endif %}
-			{% if page.description %}
+			{% if page.description and page.layout != 'post' %}
 				<p class="subtext">{{ page.description }}</p>
 			{% endif %}
 			{{ content }}

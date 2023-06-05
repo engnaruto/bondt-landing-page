@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /logo.svg
-description: Increase your Customer Support performance with our Slack-Intercom 2-Way Sync and Weekly Performance Statistics
+description: "Bondt: Increase your Customer Support performance with our Slack-Intercom 2-Way Sync and Weekly Performance Statistics"
 author:
   name: Bondt
   email: tarekcsed@gmail.com
@@ -31,7 +31,7 @@ collections:
 
 paginate: 10
 paginate_path: "/blog/:num/"
-permalink: pretty
+permalink: "/blog/:title"
 
 defaults:
   - scope:
