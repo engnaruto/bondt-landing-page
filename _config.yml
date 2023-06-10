@@ -9,7 +9,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: "/logo.svg"
+logo: "/images/logo.svg"
 description: "Bondt: Increase your Customer Support performance with our Slack-Intercom 2-Way Sync and Weekly Performance Statistics"
 author:
   name: Bondt
@@ -37,7 +37,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/logo.svg"
+      image: "/images/logo.svg"
   - scope:
       path: ""
       type: "posts"
