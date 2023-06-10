@@ -10,6 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: "/images/logo.png"
+image: "/images/logo.png"
 description: "Increase your Customer Support performance with our Slack-Intercom 2-Way Sync and Weekly Performance Statistics with Bondt"
 author:
   name: Bondt
@@ -34,10 +35,6 @@ paginate_path: "/blog/:num/"
 permalink: "/blog/:title/"
 
 defaults:
-  - scope:
-      path: ""
-    values:
-      image: "/images/logo.png"
   - scope:
       path: ""
       type: "posts"
