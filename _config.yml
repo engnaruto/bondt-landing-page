@@ -15,10 +15,15 @@ author:
   name: Bondt
   email: info@bondt.io
   twitter: bondt_io
-# social:
-#   name: Hydra Template
-#   links:
-#     - https://engnaruto.github.io/bondt-landing-page/
+social:
+  name: Bondt
+  links:
+    - https://bondt.io/
+    - https://twitter.com/bondt_io
+
+twitter:
+  username: bondt_io
+  card: summary
 
 # -----
 # Build
@@ -37,7 +42,9 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/feature-image.png
+      image:
+        path: "/images/feature-image.png"
+        alt: "Bondt Logo"
   - scope:
       path: ""
       type: "posts"
