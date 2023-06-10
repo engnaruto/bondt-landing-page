@@ -6,9 +6,8 @@ categories:
   - slack
   - productivity
 author_staff_member: tarek
-image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg
 ---
-![Slack Logo]({{ page.image }})
+![Slack Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg)
 
 [Slack](https://slack.com/) has become a vital tool for modern teams, revolutionizing the way we communicate and collaborate. 
 In this article, we will explore some valuable tips and tricks to help you optimize your communication on Slack, ensuring efficient and effective team collaboration. Let's dive in!

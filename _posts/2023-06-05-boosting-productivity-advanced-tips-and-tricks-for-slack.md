@@ -7,9 +7,8 @@ categories:
   - slack
   - productivity
 author_staff_member: tarek
-image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg
 ---
-![Slack Logo]({{ page.image }})
+![Slack Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg)
 
 In addition to efficient communication, [Slack](https://slack.com/) offers a range of advanced features to boost productivity and streamline workflows. 
 In this second part of our article, we will explore some advanced tips and tricks to help you make the most of Slack's capabilities. Let's get started!

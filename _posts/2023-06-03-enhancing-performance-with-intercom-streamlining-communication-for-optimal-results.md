@@ -9,9 +9,8 @@ categories:
   - slack
   - productivity
 author_staff_member: tarek
-image: https://cdn.cdnlogo.com/logos/i/76/intercom.svg
 ---
-![Intercom Logo]({{ page.image }})
+![Intercom Logo](https://cdn.cdnlogo.com/logos/i/76/intercom.svg)
 
 In today's fast-paced business environment, effective communication plays a vital role in the success of any organization. 
 
